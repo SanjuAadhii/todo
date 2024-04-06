@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "task": "done"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "task": "a"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "task": "b"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "task": "dgfyt"
+    }
+  ]
+}
